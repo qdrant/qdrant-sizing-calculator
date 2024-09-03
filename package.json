@@ -1,0 +1,17 @@
+{
+  "name": "qdrant-sizing-calculator",
+  "version": "1.0.0",
+  "description": "Estimate size requirements for qdrant cluster",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.25.4",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
